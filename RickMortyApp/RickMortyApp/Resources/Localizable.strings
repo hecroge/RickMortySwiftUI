@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  RickMortyApp
+
+  Created by Héctor Rogel on 11/2/23.
+  
+*/
+
+"Characters_View_Title" = "Characters Rick & Morty";
+
+"Characters_Detail_View_Status" = "Status: ";
+"Characters_Detail_View_Species" = "Species: ";
+"Characters_Detail_View_Gender" = "Gender: ";
+"Characters_Detail_View_Origin" = "Origin: ";
+"Characters_Detail_View_Location" = "Location: ";
